@@ -1,0 +1,5 @@
+There are three folders - music, speech, and noise, containing audio files. 
+
+This can be downloaded from below link.
+
+http://www.openslr.org/17
